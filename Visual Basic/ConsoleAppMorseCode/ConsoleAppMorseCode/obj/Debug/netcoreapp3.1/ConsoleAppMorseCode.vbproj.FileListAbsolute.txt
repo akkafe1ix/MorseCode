@@ -1,0 +1,14 @@
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.exe
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.deps.json
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.runtimeconfig.json
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.runtimeconfig.dev.json
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.dll
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.pdb
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.vbproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.AssemblyInfo.vb
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.vbproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.dll
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.pdb
+C:\Users\Huawei\Desktop\Курсач Даньков\Visual Basic\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.genruntimeconfig.cache

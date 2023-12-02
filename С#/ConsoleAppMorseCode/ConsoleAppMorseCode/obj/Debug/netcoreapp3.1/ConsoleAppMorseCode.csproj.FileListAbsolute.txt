@@ -1,0 +1,14 @@
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.exe
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.deps.json
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.runtimeconfig.json
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.runtimeconfig.dev.json
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.dll
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\bin\Debug\netcoreapp3.1\ConsoleAppMorseCode.pdb
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.csproj.AssemblyReference.cache
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.AssemblyInfoInputs.cache
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.AssemblyInfo.cs
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.dll
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.pdb
+C:\Users\Huawei\Desktop\Курсач Даньков\С#\ConsoleAppMorseCode\ConsoleAppMorseCode\obj\Debug\netcoreapp3.1\ConsoleAppMorseCode.genruntimeconfig.cache
